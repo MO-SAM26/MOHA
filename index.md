@@ -1,3 +1,6 @@
+layout: default
+title: "MOSAM"
+
 # PhD Student at BMMB 
 
 ## Molecular Biologist
